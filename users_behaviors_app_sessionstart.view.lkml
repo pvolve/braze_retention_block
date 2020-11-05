@@ -13,7 +13,7 @@ view: users_behaviors_app_sessionstart {
   dimension: app_id {
     description: "id for the app on which the user action occurred"
     type: string
-    sql: ${TABLE}."APP_ID" ;;
+    sql: ${TABLE}."APP_API_ID" ;;
   }
 
 # The below two dimensions use Snowflake's SQL dialect; check for the correct syntax for your database.

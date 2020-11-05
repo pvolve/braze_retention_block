@@ -13,7 +13,7 @@ view: users_behaviors_app_firstsession {
   dimension: app_id {
     description: "id for the app on which the user action occurred"
     type: string
-    sql: ${TABLE}."APP_ID" ;;
+    sql: ${TABLE}."APP_API_ID" ;;
   }
 
   dimension: device_id {
