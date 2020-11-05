@@ -1,6 +1,6 @@
 # Custom Events
 view: users_behaviors_customevent {
-  sql_table_name: PUBLIC.USERS_BEHAVIORS_CUSTOMEVENT ;;
+  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_CUSTOMEVENT ;;
 
   dimension: id {
     primary_key: yes

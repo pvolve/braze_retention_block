@@ -1,6 +1,6 @@
 # Location Events
 view: users_behaviors_location {
-  sql_table_name: PUBLIC.USERS_BEHAVIORS_LOCATION ;;
+  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_LOCATION ;;
 
   dimension: id {
     primary_key: yes

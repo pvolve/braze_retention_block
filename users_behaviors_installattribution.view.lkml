@@ -1,6 +1,6 @@
 # Install Attribution Events
 view: users_behaviors_installattribution {
-  sql_table_name: PUBLIC.USERS_BEHAVIORS_INSTALLATTRIBUTION ;;
+  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_INSTALLATTRIBUTION ;;
 
   dimension: id {
     primary_key: yes
