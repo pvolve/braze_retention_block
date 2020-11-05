@@ -1,6 +1,6 @@
 # Purchase Events
 view: users_behaviors_purchase {
-  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_PURCHASE ;;
+  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_PURCHASE_SHARED ;;
 
   dimension: id {
     primary_key: yes

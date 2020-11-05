@@ -1,6 +1,6 @@
 # Session Start Events
 view: users_behaviors_app_sessionstart {
-  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_APP_SESSIONSTART ;;
+  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_APP_SESSIONSTART_SHARED ;;
 
   dimension: id {
     primary_key: yes

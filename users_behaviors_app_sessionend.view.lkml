@@ -1,6 +1,6 @@
 # Session End Events
 view: users_behaviors_app_sessionend {
-  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_APP_SESSIONEND ;;
+  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_APP_SESSIONEND_SHARED ;;
 
   dimension: id {
     primary_key: yes

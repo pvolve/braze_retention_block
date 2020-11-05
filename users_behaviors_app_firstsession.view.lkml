@@ -1,6 +1,6 @@
 # First Session Events
 view: users_behaviors_app_firstsession {
-  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_APP_FIRSTSESSION ;;
+  sql_table_name: DATALAKE_SHARING.USERS_BEHAVIORS_APP_FIRSTSESSION_SHARED ;;
 
   dimension: id {
     description: "unique id of this event"
