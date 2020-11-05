@@ -1,4 +1,4 @@
-connection: "currents_connection"
+connection: "snowflake_braze"
 
 # Views
 include: "users_behaviors_app_firstsession.view.lkml"
